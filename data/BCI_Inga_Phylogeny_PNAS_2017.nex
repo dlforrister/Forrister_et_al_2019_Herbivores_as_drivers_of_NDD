@@ -1,0 +1,31 @@
+#NEXUS
+[R-package APE, Wed Jun 20 15:35:25 2018]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 9;
+	TAXLABELS
+		ingafa
+		ingape
+		ingama_EC
+		ingaco
+		ingago
+		ingaqu
+		ingas1
+		ingasa
+		ingaum
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	ingafa,
+		2	ingape,
+		3	ingama_EC,
+		4	ingaco,
+		5	ingago,
+		6	ingaqu,
+		7	ingas1,
+		8	ingasa,
+		9	ingaum
+	;
+	TREE * UNTITLED = [&R] (((1:0.759356,((2:0.558611,3:0.558613):0.077297,(((4:0.33879,5:0.33879):0.242405,6:0.581194):0.00029,7:0.581483):0.054425):0.123447):0.046253,8:0.805607):0.90382,9:1.709429);
+END;

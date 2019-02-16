@@ -1,0 +1,268 @@
+index,plant species,plant sp,collection number,no. individuals,Family (from BOLD),genus (from BOLD),species (from BOLD),taxon MOTU,Herb_Order
+238,multijuga,ingath,BCI-h789,5,Chrysomelidae,,,,Coleoptera
+185,acuminata,ingas1,BCI-h729,3,Curculionidae,,,,Coleoptera
+127,multijuga,ingath,BCI-h659,3,Cecidomyiidae,,,,Diptera
+263,punctata,ingapu,BCI-h820,2,Syrphidae,,,,Diptera
+297,laurina,ingafa,BCI-h857,1,Coreidae,,hemip8,hemip8,Hemipteran
+298,laurina,ingafa,BCI-h858,1,Coreidae,,hemip8,hemip8,Hemipteran
+299,laurina,ingafa,BCI-h859,1,Coreidae,,hemip8,hemip8,Hemipteran
+302,laurina,ingafa,BCI-h862,1,Coreidae,,hemip8,hemip8,Hemipteran
+303,laurina,ingafa,BCI-h863,1,Coreidae,,hemip8,hemip8,Hemipteran
+295,sapindoides,ingasa,BCI-h855,1,Coreidae,,hemip9,hemip9,Hemipteran
+296,sapindoides,ingasa,BCI-h856,1,Coreidae,,hemip9,hemip9,Hemipteran
+58,acuminata,ingas1,BCI-h574,1,Chalcidoidea,,,,Hymenoptera-Parasitoid
+280,sapindoides,ingasa,BCI-h839,1,Chalcidoidea,,,,Hymenoptera-Parasitoid
+231,cocleensis,ingaco,BCI-h781,42,Argidae,Ptenos,leucopoda,sawfly17,Hymenoptera-sawfly
+198,goldmanii,ingago,BCI-h745,25,Argidae,Ptenos,leucopoda,sawfly17,Hymenoptera-sawfly
+120,laurina,ingafa,BCI-h650,7,Argidae,,sawfly24,sawfly24,Hymenoptera-sawfly
+174,umbellifera,ingaum,BCI-h715,7,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+176,umbellifera,ingaum,BCI-h720,10,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+178,umbellifera,ingaum,BCI-h722,47,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+179,umbellifera,ingaum,BCI-h723,35,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+190,umbellifera,ingaum,BCI-h737,68,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+200,umbellifera,ingaum,BCI-h747,10,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+201,umbellifera,ingaum,BCI-h748,35,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+213,umbellifera,ingaum,BCI-h761,10,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+278,umbellifera,ingaum,BCI-h837,5,Argidae,,sawfly8,sawfly8,Hymenoptera-sawfly
+230,cocleensis,ingaco,BCI-h780,4,Cosmopterigidae,elachBioLep01, BioLep408,Gele42,Lepidoptera
+229,cocleensis,ingaco,BCI-h779,2,Cosmopterigidae,elachJanzen01, Janzen787,Gele28,Lepidoptera
+162,umbellifera,ingaum,BCI-h699,1,Choreutidae,Brenthia,Janzen32,Tort1,Lepidoptera
+16,marginata,ingama,BCI-h529,2,Cosmopterigidae,pteroJanzen01,BioLep01,Gele37,Lepidoptera
+56,marginata,ingama,BCI-h572,2,Cosmopterigidae,pteroJanzen01,BioLep01,Gele37,Lepidoptera
+272,umbellifera,ingaum,BCI-h829,1,Crambidae,Spilomela, sp. 1YB,Pyral18,Lepidoptera
+52,acuminata,ingas1,BCI-h568,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+53,acuminata,ingas1,BCI-h569,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+54,acuminata,ingas1,BCI-h570,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+214,cocleensis,ingaco,BCI-h762,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+232,goldmanii,ingago,BCI-h782,5,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+255,goldmanii,ingago,BCI-h811,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+118,multijuga,ingath,BCI-h647,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+237,multijuga,ingath,BCI-h788,3,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+241,multijuga,ingath,BCI-h793,2,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+269,multijuga,ingath,BCI-h826,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+277,multijuga,ingath,BCI-h836,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+48,pezizifera,ingape,BCI-h564,6,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+101,pezizifera,ingape,BCI-h624,2,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+141,pezizifera,ingape,BCI-h678,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+142,pezizifera,ingape,BCI-h679,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+143,pezizifera,ingape,BCI-h680,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+196,pezizifera,ingape,BCI-h743,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+220,pezizifera,ingape,BCI-h769,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+228,pezizifera,ingape,BCI-h778,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+261,punctata,ingapu,BCI-h818,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+91,ruiziana,ingaru,BCI-h611,3,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+92,ruiziana,ingaru,BCI-h612,2,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+78,sapindoides,ingasa,BCI-h597,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+154,sapindoides,ingasa,BCI-h691,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+155,sapindoides,ingasa,BCI-h692,2,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+156,sapindoides,ingasa,BCI-h693,1,Crambidae,Omiodes,humeralisDHJ01,Pyral21,Lepidoptera
+157,sapindoides,ingasa,BCI-h694,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+158,sapindoides,ingasa,BCI-h695,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+159,sapindoides,ingasa,BCI-h696,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+160,sapindoides,ingasa,BCI-h697,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+192,sapindoides,ingasa,BCI-h739,6,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+193,sapindoides,ingasa,BCI-h740,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+194,sapindoides,ingasa,BCI-h741,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+283,sapindoides,ingasa,BCI-h842,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+287,sapindoides,ingasa,BCI-h846,4,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+288,sapindoides,ingasa,BCI-h847,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+134,umbellifera,ingaum,BCI-h668,1,Crambidae,Omiodes,humeralisDHJ01,Pyral19,Lepidoptera
+100,acuminata,ingas1,BCI-h623,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+39,cocleensis,ingaco,BCI-h554,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+47,cocleensis,ingaco,BCI-h563,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+102,cocleensis,ingaco,BCI-h627,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+224,cocleensis,ingaco,BCI-h773,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+234,cocleensis,ingaco,BCI-h784,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+235,cocleensis,ingaco,BCI-h785,4,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+242,cocleensis,ingaco,BCI-h794,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+243,cocleensis,ingaco,BCI-h795,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+245,cocleensis,ingaco,BCI-h799,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+246,cocleensis,ingaco,BCI-h800,2,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+247,cocleensis,ingaco,BCI-h801,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+292,cocleensis,ingaco,BCI-h851,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+293,cocleensis,ingaco,BCI-h852,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+7,goldmanii,ingago,BCI-h520,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+69,goldmanii,ingago,BCI-h587,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+97,goldmanii,ingago,BCI-h620,6,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+145,goldmanii,ingago,BCI-h682,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+202,goldmanii,ingago,BCI-h749,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+233,goldmanii,ingago,BCI-h783,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+249,goldmanii,ingago,BCI-h804,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+1,laurina,ingafa,BCI-h513,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+94,laurina,ingafa,BCI-h614,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+119,laurina,ingafa,BCI-h649,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+8,marginata,ingama,BCI-h521,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+10,marginata,ingama,BCI-h523,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+11,marginata,ingama,BCI-h524,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+12,marginata,ingama,BCI-h525,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+15,marginata,ingama,BCI-h528,4,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+21,marginata,ingama,BCI-h535,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+24,marginata,ingama,BCI-h538,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+32,marginata,ingama,BCI-h547,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+72,marginata,ingama,BCI-h590,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+73,marginata,ingama,BCI-h591,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+74,marginata,ingama,BCI-h592,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+86,marginata,ingama,BCI-h605,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+171,marginata,ingama,BCI-h710,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+180,marginata,ingama,BCI-h724,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+89,multijuga,ingath,BCI-h608,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+121,multijuga,ingath,BCI-h652,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+161,multijuga,ingath,BCI-h698,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+167,multijuga,ingath,BCI-h704,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+267,multijuga,ingath,BCI-h824,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+275,multijuga,ingath,BCI-h834,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+276,multijuga,ingath,BCI-h835,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+41,nobilis,ingaqu,BCI-h556,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+42,nobilis,ingaqu,BCI-h557,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+67,nobilis,ingaqu,BCI-h585,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+75,nobilis,ingaqu,BCI-h593,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+4,pezizifera,ingape,BCI-h517,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+5,pezizifera,ingape,BCI-h518,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+71,pezizifera,ingape,BCI-h589,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+81,pezizifera,ingape,BCI-h600,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+83,pezizifera,ingape,BCI-h602,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+105,pezizifera,ingape,BCI-h631,3,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+110,pezizifera,ingape,BCI-h637,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+266,pezizifera,ingape,BCI-h823,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+3,ruiziana,ingaru,BCI-h516,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+80,ruiziana,ingaru,BCI-h599,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+90,ruiziana,ingaru,BCI-h609,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+93,ruiziana,ingaru,BCI-h613,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+40,sapindoides,ingasa,BCI-h555,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+70,sapindoides,ingasa,BCI-h588,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+43,umbellifera,ingaum,BCI-h558,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+99,umbellifera,ingaum,BCI-h622,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+147,umbellifera,ingaum,BCI-h684,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+225,umbellifera,ingaum,BCI-h774,1,Crambidae,elachJanzen01,Janzen287,Pyral26,Lepidoptera
+239,multijuga,ingath,BCI-h790,3,Depressariidae,Cerconota, phillipsEPR11,Gele3,Lepidoptera
+165,marginata,ingama,BCI-h702,3,Depressariidae,Antaeotricha,Janzen13,Gele59,Lepidoptera
+63,goldmanii,ingago,BCI-h579,1,Depressariidae,Antaeotricha,Janzen290,Gele95,Lepidoptera
+226,umbellifera,ingaum,BCI-h776,1,Depressariidae,Antaeotricha,Janzen31,Gele77,Lepidoptera
+188,acuminata,ingas1,BCI-h735,1,Depressariidae,Antaeotricha,Janzen67,Gele103,Lepidoptera
+113,pezizifera,ingape,BCI-h641,1,Depressariidae,Antaeotricha,phillipsEPR23,Gele82,Lepidoptera
+284,pezizifera,ingape,BCI-h843,1,Depressariidae,Antaeotricha,phillipsEPR23,Gele116,Lepidoptera
+262,punctata,ingapu,BCI-h819,1,Depressariidae,Antaeotricha,phillipsEPR23,Gele116,Lepidoptera
+264,punctata,ingapu,BCI-h821,1,Depressariidae,Antaeotricha,phillipsEPR23,Gele116,Lepidoptera
+221,umbellifera,ingaum,BCI-h770,1,Erebidae,Alesua,Noctu50,Noctu50,Lepidoptera
+270,umbellifera,ingaum,BCI-h827,1,Erebidae,Alesua,Noctu50,Noctu50,Lepidoptera
+60,marginata,ingama,BCI-h576,1,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+95,nobilis,ingaqu,BCI-h617,1,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+103,nobilis,ingaqu,BCI-h628,1,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+45,pezizifera,ingape,BCI-h560,1,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+146,pezizifera,ingape,BCI-h683,3,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+204,pezizifera,ingape,BCI-h752,8,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+164,sapindoides,ingasa,BCI-h701,2,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+133,umbellifera,ingaum,BCI-h667,1,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+163,umbellifera,ingaum,BCI-h700,2,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+206,umbellifera,ingaum,BCI-h754,1,Gelechiidae,gelJanzen01,Janzen1157,Gele9,Lepidoptera
+256,goldmanii,ingago,BCI-h812,3,Gelechiidae,gelJanzen01,Janzen397,Gele50,Lepidoptera
+175,acuminata,ingas1,BCI-h716,1,Gelechiidae,Anacampsis,Janzen76,Gele55,Lepidoptera
+96,nobilis,ingaqu,BCI-h619,1,Geometridae,Scopula,albidaria,Geom3,Lepidoptera
+183,acuminata,ingas1,BCI-h727,1,Geometridae,Macaria,approximaria,Geom42,Lepidoptera
+186,acuminata,ingas1,BCI-h730,1,Geometridae,Macaria,approximaria,Geom42,Lepidoptera
+187,acuminata,ingas1,BCI-h732,4,Geometridae,Macaria,approximaria,Geom42,Lepidoptera
+107,acuminata,ingas1,BCI-h634,1,Geometridae,Glena,Janzen05,Geom27,Lepidoptera
+123,pezizifera,ingape,BCI-h655,1,Geometridae,Glena,Janzen05,Geom27,Lepidoptera
+111,umbellifera,ingaum,BCI-h638,1,Geometridae,Glena,Janzen05,Geom27,Lepidoptera
+116,umbellifera,ingaum,BCI-h645,1,Geometridae,Glena,Janzen05,Geom27,Lepidoptera
+216,umbellifera,ingaum,BCI-h765,1,Geometridae,Isochromodes,Janzen63,Geom58,Lepidoptera
+130,pezizifera,ingape,BCI-h663,1,Geometridae,Betulodes,matharmaYB01Pn,Geom10,Lepidoptera
+98,umbellifera,ingaum,BCI-h621,1,Geometridae,Betulodes,matharmaYB01Pn,Geom10,Lepidoptera
+29,marginata,ingama,BCI-h543,1,Geometridae,Oospila,rosipara,Geom4,Lepidoptera
+205,umbellifera,ingaum,BCI-h753,1,Geometridae,Semaeopus,sp. 23YB,Geom17,Lepidoptera
+85,acuminata,ingas1,BCI-h604,1,Geometridae,Paragonia,sp. 5YB,Geom52,Lepidoptera
+13,marginata,ingama,BCI-h526,1,Geometridae,Paragonia,sp. 5YB,Geom54,Lepidoptera
+184,acuminata,ingas1,BCI-h728,1,Geometridae,Idaea,subfervensDHJ01,Geom6,Lepidoptera
+172,umbellifera,ingaum,BCI-h712,1,Geometridae,Idaea,subfervensDHJ01,Geom6,Lepidoptera
+195,goldmanii,ingago,BCI-h742,13,Gracillariidae,Eucosmophora,Gracill3,Gracill3,Lepidoptera
+181,marginata,ingama,BCI-h725,1,Gracillariidae,,Gracill16,Gracill16,Lepidoptera
+182,acuminata,ingas1,BCI-h726,1,Hesperiidae,Telemiades,antiope,Hesp5,Lepidoptera
+274,sapindoides,ingasa,BCI-h833,1,Hesperiidae,Telemiades,antiope,Hesp5,Lepidoptera
+215,umbellifera,ingaum,BCI-h763,1,Hesperiidae,Telemiades,antiope,Hesp5,Lepidoptera
+189,acuminata,ingas1,BCI-h736,1,Limacodidae,Vipsophobetron,marisaDHJ01,Zygaen1,Lepidoptera
+50,nobilis,ingaqu,BCI-h566,1,Lycaenidae,Chalybs,janias,Riodin22,Lepidoptera
+273,umbellifera,ingaum,BCI-h832,1,Lycaenidae,Chalybs,janias,Riodin22,Lepidoptera
+14,marginata,ingama,BCI-h527,2,Lycaenidae,Symbiopsis,tanais,Riodin20,Lepidoptera
+35,marginata,ingama,BCI-h550,2,Lycaenidae,Symbiopsis,tanais,Riodin20,Lepidoptera
+55,marginata,ingama,BCI-h571,2,Lycaenidae,Symbiopsis,tanais,Riodin20,Lepidoptera
+260,punctata,ingapu,BCI-h817,1,Noctuidae,Xenochroa, annae,Noctu5,Lepidoptera
+294,laurina,ingafa,BCI-h853,1,Noctuidae,Letis, mycerina,Noctu12,Lepidoptera
+68,pezizifera,ingape,BCI-h586,1,Noctuidae,Letis, mycerina,Noctu12,Lepidoptera
+79,sapindoides,ingasa,BCI-h598,1,Noctuidae,Letis, mycerina,Noctu12,Lepidoptera
+88,acuminata,ingas1,BCI-h607,1,Noctuidae,Cyclopteryx, niveinotata,Noctu88,Lepidoptera
+227,cocleensis,ingaco,BCI-h777,1,Noctuidae,Cyclopteryx, niveinotata,Noctu88,Lepidoptera
+240,multijuga,ingath,BCI-h791,1,Noctuidae,Coenipeta, phasis,Noctu18,Lepidoptera
+252,pezizifera,ingape,BCI-h807,1,Noctuidae,Coenipeta, sp.,Noctu19,Lepidoptera
+285,pezizifera,ingape,BCI-h844,1,Noctuidae,, sp. 9YB,Noctu32,Lepidoptera
+218,cocleensis,ingaco,BCI-h767,1,Noctuidae,Pseudbarydia,crespula,Noctu13,Lepidoptera
+250,pezizifera,ingape,BCI-h805,5,Noctuidae,Pseudbarydia,crespula,Noctu13,Lepidoptera
+104,sapindoides,ingasa,BCI-h629,1,Noctuidae,Pseudbarydia,crespula,Noctu13,Lepidoptera
+22,marginata,ingama,BCI-h536,1,Noctuidae,Renodes,curviluna,Noctu9,Lepidoptera
+17,marginata,ingama,BCI-h530,1,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+18,marginata,ingama,BCI-h531,1,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+61,nobilis,ingaqu,BCI-h577,2,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+140,umbellifera,ingaum,BCI-h676,1,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+166,umbellifera,ingaum,BCI-h703,1,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+177,umbellifera,ingaum,BCI-h721,2,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+199,umbellifera,ingaum,BCI-h746,1,Noctuidae,Coenipeta,nubila,Noctu21,Lepidoptera
+46,laurina,ingafa,BCI-h562,1,Noctuidae,Ascalapha,odorata,Noctu34,Lepidoptera
+87,acuminata,ingas1,BCI-h606,1,Noctuidae,Tyrissa,perstrigata,Noctu94,Lepidoptera
+173,acuminata,ingas1,BCI-h713,2,Noctuidae,Tyrissa,perstrigata,Noctu94,Lepidoptera
+129,pezizifera,ingape,BCI-h662,1,Noctuidae,Tyrissa,perstrigata,Noctu94,Lepidoptera
+271,umbellifera,ingaum,BCI-h828,1,Noctuidae,Tyrissa,perstrigata,Noctu94,Lepidoptera
+9,marginata,ingama,BCI-h522,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+23,marginata,ingama,BCI-h537,3,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+25,marginata,ingama,BCI-h539,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+27,marginata,ingama,BCI-h541,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+28,marginata,ingama,BCI-h542,3,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+30,marginata,ingama,BCI-h544,4,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+31,marginata,ingama,BCI-h546,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+33,marginata,ingama,BCI-h548,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+34,marginata,ingama,BCI-h549,3,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+37,marginata,ingama,BCI-h552,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+38,marginata,ingama,BCI-h553,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+109,pezizifera,ingape,BCI-h636,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+125,pezizifera,ingape,BCI-h657,1,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+244,pezizifera,ingape,BCI-h798,2,Noctuidae,Hemeroblemma,scolopacea,Noctu30,Lepidoptera
+82,pezizifera,ingape,BCI-h601,1,Notodontidae,Hemiceras, nigrescens,Noctu47,Lepidoptera
+131,pezizifera,ingape,BCI-h664,1,Notodontidae,Hemiceras, nigrescens,Noctu47,Lepidoptera
+219,pezizifera,ingape,BCI-h768,1,Notodontidae,Hemiceras, nigrescens,Noctu47,Lepidoptera
+286,pezizifera,ingape,BCI-h845,1,Notodontidae,Hemiceras, nigrescens,Noctu47,Lepidoptera
+282,sapindoides,ingasa,BCI-h841,1,Notodontidae,Hemiceras, nigrescens,Noctu47,Lepidoptera
+289,sapindoides,ingasa,BCI-h848,2,Notodontidae,Hemiceras, nigrescens,Noctu47,Lepidoptera
+257,laurina,ingafa,BCI-h813,1,Pieridae,Phoebis,arganteDHJ01,Pierid2,Lepidoptera
+59,marginata,ingama,BCI-h575,1,Pieridae,Phoebis,arganteDHJ01,Pierid2,Lepidoptera
+203,sapindoides,ingasa,BCI-h751,1,Pieridae,Phoebis,arganteDHJ01,Pierid2,Lepidoptera
+65,nobilis,ingaqu,BCI-h583,1,Pieridae,Phoebis,hersilia,Pierid3,Lepidoptera
+66,nobilis,ingaqu,BCI-h584,1,Pieridae,Phoebis,hersilia,Pierid3,Lepidoptera
+291,nobilis,ingaqu,BCI-h850,1,Pieridae,Phoebis,hersilia,Pierid3,Lepidoptera
+117,pezizifera,ingape,BCI-h646,1,Pieridae,Phoebis,hersilia,Pierid3,Lepidoptera
+281,pezizifera,ingape,BCI-h840,2,Pieridae,Phoebis,hersilia,Pierid3,Lepidoptera
+51,acuminata,ingas1,BCI-h567,1,Psychidae,,Tineo4,Tineo4,Lepidoptera
+57,acuminata,ingas1,BCI-h573,1,Riodinidae,Theope, virgilius,Riodin5,Lepidoptera
+251,pezizifera,ingape,BCI-h806,1,Riodinidae,Theope, virgilius,Riodin4,Lepidoptera
+290,sapindoides,ingasa,BCI-h849,2,Riodinidae,Theope, virgilius,Riodin5,Lepidoptera
+106,pezizifera,ingape,BCI-h632,1,Riodinidae,Juditha,caucana,Riodin29,Lepidoptera
+20,marginata,ingama,BCI-h534,2,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+26,marginata,ingama,BCI-h540,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+36,marginata,ingama,BCI-h551,2,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+62,marginata,ingama,BCI-h578,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+168,marginata,ingama,BCI-h705,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+76,nobilis,ingaqu,BCI-h595,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+77,nobilis,ingaqu,BCI-h596,4,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+128,nobilis,ingaqu,BCI-h660,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+279,nobilis,ingaqu,BCI-h838,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+44,pezizifera,ingape,BCI-h559,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+144,pezizifera,ingape,BCI-h681,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+191,pezizifera,ingape,BCI-h738,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+132,umbellifera,ingaum,BCI-h665,1,Riodinidae,Nymphidium,haematostichum,Riodin84,Lepidoptera
+2,ruiziana,ingaru,BCI-h515,1,Riodinidae,Nymphidium,mantus,Riodin43,Lepidoptera
+169,umbellifera,ingaum,BCI-h706,1,Riodinidae,Nymphidium,mantus,Riodin43,Lepidoptera
+126,multijuga,ingath,BCI-h658,1,Riodinidae,Synargis,mycone,Riodin10,Lepidoptera
+268,multijuga,ingath,BCI-h825,2,Riodinidae,Synargis,mycone,Riodin10,Lepidoptera
+197,pezizifera,ingape,BCI-h744,1,Tortricidae,Olethreutes,cycladica,Tort7,Lepidoptera
+248,pezizifera,ingape,BCI-h803,1,Tortricidae,Amorbia,revolutana,Tort20,Lepidoptera
+210,umbellifera,ingaum,BCI-h758,1,Tortricidae,Amorbia,revolutana,Tort20,Lepidoptera
+236,cocleensis,ingaco,BCI-h786,1,Tortricidae,Platynota,sp. lep195,Tort15,Lepidoptera
+217,goldmanii,ingago,BCI-h766,1,Tortricidae,Platynota,sp. lep195,Tort15,Lepidoptera
+259,goldmanii,ingago,BCI-h815,1,Tortricidae,Platynota,sp. lep195,Tort15,Lepidoptera
